@@ -77,7 +77,7 @@ if ($_GET) {
 
      <div class="col-md-6">
      	<?php if(!$_GET):?>
-     	<h2>AGREGAR NUEVO ELEMENTO</h2>
+     	<h2>AGREGAR ELEMENTO</h2>
      	<form method="POST">
      		<input type="text" class="form-control" name="color">
      		<input type="text" class="form-control mt-3"
